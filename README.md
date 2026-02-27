@@ -1,3 +1,14 @@
+起動
+ターミナルを2つ開いて：
+
+
+# ターミナル1: React
+npm start
+
+# ターミナル2: JSON Server
+npm run server
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
